@@ -1,3 +1,3 @@
 # Recyclerviewtemplate
 
-contanins a recycler View A Template 
+contains a recycler View A Template 
